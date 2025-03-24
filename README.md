@@ -1,4 +1,4 @@
-# ♀️ Gender Equity in Davis, CA
+# ♀️ Gender Equity in Davis, California, United States
 ## 🎯 Objective <br>
 This project ... <p>
 ## 🛠️ Tools <br>
