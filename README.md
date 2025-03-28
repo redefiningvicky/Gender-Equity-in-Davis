@@ -1,6 +1,6 @@
 # ♀️ Gender Equity in Davis, California, United States
 ## 🎯 Objective <br>
-This project focuses on promoting gender equity within the Davis community by highlighting and informing individuals about the gender-inclusive resources available. Utilizing the principles of Asset-Based Community Development (ABCD), we created a comprehensive community asset map that identifies and showcases essential locations supporting gender inclusivity. <p>
+This project focuses on promoting gender equity within the Davis community by highlighting and informing individuals about the gender-inclusive resources available. Utilizing the principles of Asset-Based Community Development (ABCD), a comprehensive community asset map was created that identifies and showcases essential locations supporting gender inclusivity. <p>
 ## 🛠️ Tools <br>
 • <b>Google:</b> Google Maps <p>
 • <b>Design:</b> Canva <p>
