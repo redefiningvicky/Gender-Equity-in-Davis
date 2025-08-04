@@ -5,7 +5,7 @@ This project focuses on promoting gender equity within the Davis community by hi
 • <b>Design:</b> Canva <p>
 • <b>Google:</b> Google Maps <p>
 ## 🖼️ Poster <br>
-This project is a fully functional poster available at the following link: [View Poster RGB](https://github.com/redefiningvicky/Gender-Equity-in-Davis/blob/f65052185e24df3caa8e0552cef8b0db163a9d39/Poster/Gender_Equity_in_Davis_RGB.pdf), [View Poster CMYK](https://github.com/redefiningvicky/Gender-Equity-in-Davis/blob/f65052185e24df3caa8e0552cef8b0db163a9d39/Poster/Gender_Equity_in_Davis_CMYK.pdf). <p>
+This project is a fully functional poster available at the following link: [View Poster RGB](https://github.com/redefiningvicky/Gender-Equity-in-Davis/blob/f65052185e24df3caa8e0552cef8b0db163a9d39/Poster/Gender_Equity_in_Davis_RGB.pdf), [View Poster CMYK](https://github.com/redefiningvicky/Gender-Equity-in-Davis/blob/f65052185e24df3caa8e0552cef8b0db163a9d39/Poster/Gender_Equity_in_Davis_CMYK.pdf) <p>
 ![me](https://github.com/redefiningvicky/Gender-Equity-in-Davis/blob/1bd9f895aa655f8fe8d02ed3e1c755172d8662ae/Poster/Poster_Gender_Equity_in_Davis_1.png)
 ![me](https://github.com/redefiningvicky/Gender-Equity-in-Davis/blob/1bd9f895aa655f8fe8d02ed3e1c755172d8662ae/Poster/Poster_Gender_Equity_in_Davis_2.png)
 ![me](https://github.com/redefiningvicky/Gender-Equity-in-Davis/blob/1bd9f895aa655f8fe8d02ed3e1c755172d8662ae/Poster/Poster_Gender_Equity_in_Davis_3.png)
