@@ -2,8 +2,7 @@
 ## 🎯 Objective <br>
 This project focuses on promoting gender equity within the Davis community by highlighting and informing individuals about the gender-inclusive resources available. Utilizing the principles of Asset-Based Community Development (ABCD), a comprehensive community asset map was created that identifies and showcases essential locations supporting gender inclusivity. <p>
 ## 🛠️ Tools <br>
-• <b>GIS & Remote Sensing:</b> Google Maps <p>
-• <b>Design & Visualization:</b> Canva <p>
+• Google Map, Canva <p>
 ## 🖼️ Poster <br>
 This project is a fully functional poster available at the following link: [View Poster RGB](https://github.com/redefiningvicky/Gender-Equity-in-Davis/blob/f65052185e24df3caa8e0552cef8b0db163a9d39/Poster/Gender_Equity_in_Davis_RGB.pdf), [View Poster CMYK](https://github.com/redefiningvicky/Gender-Equity-in-Davis/blob/f65052185e24df3caa8e0552cef8b0db163a9d39/Poster/Gender_Equity_in_Davis_CMYK.pdf). <p>
 ![me](https://github.com/redefiningvicky/Gender-Equity-in-Davis/blob/1bd9f895aa655f8fe8d02ed3e1c755172d8662ae/Poster/Poster_Gender_Equity_in_Davis_1.png)
