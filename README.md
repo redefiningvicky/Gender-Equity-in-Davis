@@ -45,6 +45,8 @@
   <strong>Tools:</strong> Google Maps, Canva
 </p>
 
+<p><strong>Format:</strong> Poster, Map</p>
+
 <hr>
 
 <h2 id="poster">🖼️ Poster</h2>
